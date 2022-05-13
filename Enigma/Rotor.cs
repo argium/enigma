@@ -7,9 +7,14 @@ namespace Enigma
 		{
 		}
 
-		public (char, bool) Transpose(char input)
+		public char Transpose(char input)
         {
 			throw new NotImplementedException();
+        }
+
+		public void Rotate()
+        {
+
         }
 	}
 }
